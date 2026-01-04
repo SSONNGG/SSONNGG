@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm SSONNGG</h1>
 <h3 align="center">Independent game developer, C++ server-side developer, Java back-end developer from China</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ssonngg&label=Profile%20views&color=0e75b6&style=flat" alt="ssonngg" /> </p>
+<
+p align="center"> <img src="https://komarev.com/ghpvc/?username=ssonngg&label=Profile%20views&color=0e75b6&style=flat" alt="ssonngg" /> </p>
 
 <div align="center">
 <span>  </span>
@@ -17,8 +18,6 @@
 - 💬 Ask me about **Game Development**
 
 - 📫 How to reach me **ssoonngg0924@foxmail.com**
-
-- ⚡ Fun fact **Genshin Impact,Personal 5 Royal,Zelda and more fun GAME.XD**
 
 - 💻 My Personal Studio **SoGeek_Studio**, you can preview at [SoGeek-Studio](https://github.com/SoGeek-Studio)
 
